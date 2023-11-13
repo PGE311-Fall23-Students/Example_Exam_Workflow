@@ -1,4 +1,4 @@
-# PGE 311 Spring 2023 Midterm Exam 2
+# PGE 311 Fall 2023 Midterm Exam 2
 
 This is a demonstrative repository to exemplify the Github workflow that will generate your personalized exam. **THIS IS NOT THE ACTUAL EXAM**.
 
